@@ -1,0 +1,4 @@
+db.sqlite3
+excel/__pycache__
+excel/migrations
+propsamc/__pycache__
