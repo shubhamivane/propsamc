@@ -125,3 +125,5 @@ STATIC_URL = '/static/'
 # )
 MEDIA_URL = '/files/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'files')
+
+API_KEY = 'AIzaSyABImbtPPugzlKQvBcksEJU7nD22ldAw3Y'
